@@ -4,7 +4,7 @@
 
 ### Building software with real-world impact | B.Tech CSE Student | Future Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1500&center=true&vCenter=true&width=700&lines=Building+production-ready+software;Learning+DSA+%26+System+Design;Flutter+%7C+Firebase+%7C+React+Developer;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1500&center=true&vCenter=true&width=700&lines=Building+production-ready+software;Learning+DSA+%26+System+Design;Flutter+%7C+Firebase+%7C+React;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
 
 <br>
 
