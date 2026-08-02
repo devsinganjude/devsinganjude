@@ -73,12 +73,12 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=devsinganjude&repo=PortFolio&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/devsinganjude/FlashChat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devsinganjude&repo=FlashChat&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/devsinganjude/DevBoat">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devsinganjude&repo=DevBoat&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/devsinganjude/Micro-Notebook-Duplex-Rearranger">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devsinganjude&repo=Micro-Notebook-Duplex-Rearranger&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/devsinganjude/lifeOS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devsinganjude&repo=lifeOS&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
